@@ -1,16 +1,22 @@
-## Hi there 👋
+💻 Hey, I’m Yuvraj!
+<p align="center"> <img src="https://github.com/Yuvraj22-game/Yuvraj22-game/blob/main/assets/coding.gif" alt="Coding" width="400"/> </p>
+👨‍💻 About Me
 
-<!--
-**Yuvraj22-game/Yuvraj22-game** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate developer & tech enthusiast
 
-Here are some ideas to get you started:
+🎮 Love building games, apps, and cool projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently exploring C++ | Java | JavaScript | MERN | DSA
+
+💡 Always learning, always curious
+
+⚡ Fun fact: Debugging feels like detective work 🔍
+
+🛠️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,react,nodejs,express,mongodb,git,github,vscode" /> </p>
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Yuvraj22-game&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj22-game&theme=tokyonight" alt="GitHub Streak" height="160"/> </p>
+🎯 Let’s Connect
+<p align="center"> <a href="https://github.com/Yuvraj22-game"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a> <a href="https://linkedin.com/in/yuvraj-saini-42a319278/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a> <a href="mailto:mannusaini435@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a> </p>
+
+✨ "Code. Create. Conquer."
