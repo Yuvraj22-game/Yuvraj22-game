@@ -6,7 +6,7 @@
 
 🎮 Love building games, apps, and cool projects
 
-🌱 Currently exploring C++ | Java | JavaScript | MERN | DSA
+🌱 Currently exploring C++ | JavaScript | MERN | DSA
 
 💡 Always learning, always curious
 
